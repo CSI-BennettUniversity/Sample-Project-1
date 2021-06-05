@@ -90,7 +90,7 @@ The code is documented at https://ocean-pv.readthedocs.io/en/latest/
 
 - [Big Five personality traits](https://en.m.wikipedia.org/wiki/Big_Five_personality_traits)
 - [Django Docs](https://docs.djangoproject.com/en/3.2/)
-- [Animate.css]: https://animate.style/
+- [Animate.css](https://animate.style/)
 - [Bootstrap](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
 
 ## Author And Creator
