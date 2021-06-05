@@ -4,8 +4,9 @@
 ![Travis (.com)](https://img.shields.io/travis/com/IgnisDa/ocean-pv)
 ![Documentation Status](https://readthedocs.org/projects/ocean-pv/badge/?version=latest)
 
-## What this website does
-
+## Abstract
+ 
+### What this website does?
 A website to visualize your personality using graphs and compare it 
 with others. It asks you a
 series of questions and analyzes your inputs to create an easy to understand 
@@ -15,7 +16,7 @@ It is based on the
 [OCEAN][1] personality model which is the most acceptable model to measure 
 personality used by researchers.
 
-## Start using the website
+### Start using the website
 
 ### First Steps
 
