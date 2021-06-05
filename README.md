@@ -18,7 +18,7 @@ personality used by researchers.
 
 ### Start using the website
 
-### First Steps
+#### First Steps
 
 After you **Register** and **Login**, click on **Get Started** to be
 guided to take a small
@@ -29,14 +29,14 @@ attribute means.
 
 ![single_result_view.png](interactions/static/interactions/images/graph_example.png)
 
-### Completing your profile
+#### Completing your profile
 
 After completing the test, it's recommended that you complete your
 profile and fill in other information about yourself like your `bio`, 
 `email`, `country`, `gender` etc. This will help us to categorize
 your answers better.
 
-### Inviting some peers to the scene
+#### Inviting some peers to the scene
 
 Peers are anyone you know- family, friends, relatives, co-workers, bosses and
 acquaintance. You can ask them to attempt a test and try to guess your
@@ -65,7 +65,7 @@ Revisit the website any time, click on **Results** in the
 know you. You can even attempt a test to try and guess your peer's personality
 using the same process of sharing as described above.
 
-### Sent here by a peer?
+#### Sent here by a peer?
 
 So your peer has invited to show how well you know them? You are at the right
 place! Simply **Register** with us to get started. Once logged in, click on
@@ -73,6 +73,11 @@ place! Simply **Register** with us to get started. Once logged in, click on
 you received.
 
 ![referral_text.png](interactions/static/interactions/images/referral_text.png)
+
+## Technologies 
+- Django
+- GraphQl
+- HTML, SCSS, JavaScript
 
 ## Further reading
 
